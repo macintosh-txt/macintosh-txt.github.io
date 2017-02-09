@@ -1,0 +1,48 @@
+body {
+	font-size: 1.1001em;	
+	background-color: #ff9999;
+	font-weight: normal;
+	font-family: cursive;
+	text-align: left;
+	color: black;
+	margin-left: 10%;
+	margin-right: 10%;
+	width: 82%;
+	min-width: 1050px;
+	max-width: 950px;
+
+}
+h1 {
+		font-family: "ar julian";
+		font-size: 1.8em;
+		text-align: center;
+		text-shadow: 6.9px 9.11px 4.20px #2d2d2d;
+		color: #ffffff;
+		
+}
+div{
+		border: 3px solid #800000;
+		padding: 1em;
+		background-color: #ff884d;
+		box-shadow: 6px 2px 0.420em red;
+		
+	
+}
+p{
+		background-color: #ff6666;
+		padding: 2em;
+		margin: 4em;
+	
+}
+div#nav{
+	clear: left;
+}
+div#nav ul {
+	list-style-type: none;
+	margin-left: 2em;
+}
+div#nav ul li{
+	float: left;
+	margin-right: 1em;
+	margin-top: -1.08em;
+
