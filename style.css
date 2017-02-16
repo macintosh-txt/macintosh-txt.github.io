@@ -37,10 +37,7 @@ p{
 div#nav{
 	clear: left;
 }
-div#nav ul {
-	list-style-type: none;
-	margin-left: 2em;
-}
+
 div#nav ul li{
 	float: left;
 	margin-right: 1em;
